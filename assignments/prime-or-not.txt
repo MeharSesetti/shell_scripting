@@ -1,0 +1,12 @@
+Algorithm
+1. Arguement is passed from the script.
+2. if the no argument is passed then , the script as to exit. 
+3. With the argument number provided...that as to verify.
+4. update the user to it is prime or not. 
+5. If the number is prime then it as to print.
+6. If not then, it as to print not-a-prime.
+Pseudocode: 
+START
+User Provided number using script argument and it is stored in varaible num.
+[A1. [B[A[C[C2.   if argument number is empty, telling the user to use correct usage like script name $0 <number>
+3.   using for loop like for ( i=2, i is less than the given number and using if condition by given number with module i is equal to zero then print given number is not prime then exit else it will print given number is prime.
