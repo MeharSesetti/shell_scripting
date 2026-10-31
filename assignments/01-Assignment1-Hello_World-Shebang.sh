@@ -4,5 +4,5 @@ echo "Hello, World!"
 
 today=$(date)
 echo "Today is: $today"
-echo "Running as: $user"
+echo "Running as: $USER"
 echo "Current directory: $DIR"
