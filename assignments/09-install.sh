@@ -2,7 +2,7 @@
 
 #if the user is not providing arguments then ... the script as to tell the usage... 
 
-if [ -z $name ]; then 
+if [ -z $1 ]; then 
 	echo "Usage: $0 <argument>"
 	exit 1
 fi
